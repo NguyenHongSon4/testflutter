@@ -1,0 +1,26 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Ghi chú 1",
+      "content": "Đây là nội dung 1.",
+      "priority": 1,
+      "createdAt": "2025-04-09T10:00:00Z",
+      "modifiedAt": "2025-04-09T10:00:00Z",
+      "tags": "công việc",
+      "color": "#FF0000",
+      "imagePath": null
+    },
+    {
+      "id": 2,
+      "title": "Danh sách mua sắm",
+      "content": "Mua sữa, bánh mì, và trái cây.",
+      "priority": 2,
+      "createdAt": "2025-04-09T11:00:00Z",
+      "modifiedAt": "2025-04-09T11:00:00Z",
+      "tags": null,
+      "color": "#00FF00",
+      "imagePath": null
+    }
+  ]
+}
